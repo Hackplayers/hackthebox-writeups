@@ -12,4 +12,4 @@ https://www.hackthebox.eu/
 
  writeups | nick | avatar  
  --- | --- | ---  
-1 | [Zaiuss]:https://www.hackthebox.eu/home/users/profile/6954 |  <img src="./images/zaiuss.png" width="20%">    
+1 | Zaiuss |  [<img src="./images/zaiuss.png" width="20%">](https://www.hackthebox.eu/home/users/profile/6954)  
