@@ -12,4 +12,4 @@ https://www.hackthebox.eu/
 
  avatar | nick | writeups  
  --- | --- | ---  
- 1.00-beta | .bye-world! | 5/10/2016    
+ ![](./images/zaiuss.png | width=40) | Zaiuss | 1    
