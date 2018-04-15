@@ -12,4 +12,4 @@ https://www.hackthebox.eu/
 
  avatar | nick | writeups  
  --- | --- | ---  
- ![test image size](/img/zaiuss.png){:height="50%" width="50%"} | Zaiuss | 1    
+ <img src="./image/zaiuss.png" width="40%"> | Zaiuss | 1    
