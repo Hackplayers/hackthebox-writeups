@@ -9,3 +9,7 @@ https://www.hackthebox.eu/
 ![hpys_htb_writeups logo](./images/htb_writeup.png)  
 
 # Contributors
+
+ avatar | nick | writeups  
+ --- | --- | ---  
+ 1.00-beta | .bye-world! | 5/10/2016    
