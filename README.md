@@ -10,6 +10,6 @@ https://www.hackthebox.eu/
 
 # Contributors
 
- avatar | nick | writeups  
+ writeups | nick | avatar  
  --- | --- | ---  
- <img src="./images/zaiuss.png" width="20%"> | Zaiuss | 1    
+1 | [Zaiuss]:https://www.hackthebox.eu/home/users/profile/6954 |  <img src="./images/zaiuss.png" width="20%">    
