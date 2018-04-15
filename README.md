@@ -10,6 +10,6 @@ https://www.hackthebox.eu/
 
 # Contributors
 
- avatar | nick | writeups  
- --- | --- | ---  
- 1.00-beta | .bye-world! | 5/10/2016    
+ writeups | nick | avatar | 
+ --- | --- | --- | 
+1 | Zaiuss |  [<img src="./images/zaiuss.png">](https://www.hackthebox.eu/home/users/profile/6954) |  
