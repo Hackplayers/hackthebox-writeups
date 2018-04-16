@@ -20,5 +20,5 @@ Note: the minimum requirement to enter the "special" Telegram group is also to h
 
  No | nick | avatar | team | machines  
  --- | --- | --- | --- | ---
-1 | Zaiuss |  [<img src="./images/zaiuss.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/6954) |  [L1k0rD3B3ll0t4](https://www.hackthebox.eu/home/teams/profile/149) | Celestial  
-2 | Vis0r |  [<img src="./images/vis0r.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/1811) |  [L1k0rD3B3ll0t4](https://www.hackthebox.eu/home/teams/profile/149) | Blocky  
+1 | Zaiuss |  [<img src="./images/zaiuss.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/6954) |  [L1k0rD3B3ll0t4](https://www.hackthebox.eu/home/teams/profile/149) | [Celestial](https://github.com/Hackplayers/hackthebox-writeups/raw/master/machines/Celestial/zaiuss-celestial.pdf)    
+2 | Vis0r |  [<img src="./images/vis0r.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/1811) |  [L1k0rD3B3ll0t4](https://www.hackthebox.eu/home/teams/profile/149) | [Blocky](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Blocky/vis0r_blocky.pdf)  
