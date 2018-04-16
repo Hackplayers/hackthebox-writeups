@@ -13,3 +13,4 @@ https://www.hackthebox.eu/
  No | nick | avatar | team | machines  
  --- | --- | --- | --- | ---
 1 | Zaiuss |  [<img src="./images/zaiuss.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/6954) |  [L1k0rD3B3ll0t4](https://www.hackthebox.eu/home/teams/profile/149) | Celestial  
+2 | Vis0r |  [<img src="./images/vis0r.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/1811) |  [L1k0rD3B3ll0t4](https://www.hackthebox.eu/home/teams/profile/149) | Blocky  
