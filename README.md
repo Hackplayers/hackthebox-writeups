@@ -8,6 +8,10 @@ https://www.hackthebox.eu/
 
 ![hpys_htb_writeups logo](./images/htb_writeup.png)  
 
+# Submissions
+
+If you want to incorporate your own writeup, notes, scripts or other material to solve the boot2root machines you can do it through a **'pull request'** or by sending us an email to: **hackplayers_at_Ymail.com**. In this way, you will be added to our **top contributors list** and you will also receive an **invitation link to an exclusive Telegram group** where several hints (not spoilers) are discussed for the HacktheBox machines.
+
 # Contributors
 
  No | nick | avatar | team | machines  
