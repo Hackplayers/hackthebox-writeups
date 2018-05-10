@@ -18,8 +18,8 @@ Note: the minimum requirement to enter the "special" Telegram group is also to h
 
 # Contributors
 
- No | nick | avatar | team | machines  
- --- | --- | --- | --- | ---
+ No | nick | avatar | team | machines | challenges 
+ --- | --- | --- | --- | --- | ---
 1 | manulqwerty |  [<img src="./images/manulqwerty.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/25205) | [PeakyBlinders](https://www.hackthebox.eu/home/teams/profile/588) | [Stratosphere](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Stratosphere/Stratosphere-manulqwerty.pdf) [Canape](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Canape/manulqwerty-canape.pdf)
 2 | Fiti |  [<img src="./images/fiti.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/26241) | solitaire wolf |  [Bashed](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Bashed/fiti-bashed.pdf) [Arctic](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Arctic/fiti-arctic.pdf) [Tenten](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Tenten/fiti-tenten.pdf)     
 3 | Pitenager |  [<img src="./images/pitenager.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/16595) |  solitaire wolf | [Blue](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Blue/pitenager-blue.pdf) [Mirai](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Mirai/pitenager-mirai.pdf) 
@@ -32,3 +32,4 @@ Note: the minimum requirement to enter the "special" Telegram group is also to h
 10 | attl4s |  [<img src="./images/attl4s.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/22983) | [juankeres](https://www.hackthebox.eu/home/teams/profile/160) | [Falafel](https://github.com/Hackplayers/hackthebox-writeups/tree/master/machines/Falafel/attl4s-falafel.pdf) 
 11 | kauffman |  [<img src="./images/kauffman.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/21796) |  solitaire wolf | [Poison](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Poison/kauffman-poison.pdf)  
 12 | Vis0r |  [<img src="./images/vis0r.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/1811) |  [L1k0rD3B3ll0t4](https://www.hackthebox.eu/home/teams/profile/149) | [Blocky](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Blocky/vis0r_blocky.pdf)  
+13 | Killerloops |  [<img src="./images/killerloops.png" height="42" width="42">]https://www.hackthebox.eu/home/users/profile/4180) |  [prosegur](https://www.hackthebox.eu/home/teams/profile/1811) | [Prosegur](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/reversing/tearordear/killerloops-tearordear.pdf)  
