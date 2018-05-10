@@ -1,16 +1,17 @@
 # hackthebox-writeups
-Writeups for HacktheBox machines (boot2root) written in Spanish or English.  
+Writeups for HacktheBox machines (boot2root) and challenges written in Spanish or English.  
 
 https://www.hackthebox.eu/  
 
-
+**Important**
+All Challenge Writeups are password protected with the corresponding flag.
 **Active** machines writeups are protected with the corresponding root flag.
 
 ![hpys_htb_writeups logo](./images/htb_writeup.png)  
 
 # Submissions
 
-If you want to incorporate your own writeup, notes, scripts or other material to solve the boot2root machines you can do it through a **'pull request'** or by sending us an email to: **hackplayers_at_Ymail.com**. 
+If you want to incorporate your own writeup, notes, scripts or other material to solve the boot2root machines and challenges you can do it through a **'pull request'** or by sending us an email to: **hackplayers_at_Ymail.com**. 
 
 In this way, you will be added to our **top contributors list** (see below) and you will also receive an **invitation link to an exclusive Telegram group** where several hints (not spoilers) are discussed for the HacktheBox machines.  
 
@@ -32,4 +33,4 @@ Note: the minimum requirement to enter the "special" Telegram group is also to h
 10 | attl4s |  [<img src="./images/attl4s.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/22983) | [juankeres](https://www.hackthebox.eu/home/teams/profile/160) | [Falafel](https://github.com/Hackplayers/hackthebox-writeups/tree/master/machines/Falafel/attl4s-falafel.pdf) |   
 11 | kauffman |  [<img src="./images/kauffman.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/21796) |  solitaire wolf | [Poison](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Poison/kauffman-poison.pdf) |  
 12 | Vis0r |  [<img src="./images/vis0r.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/1811) |  [L1k0rD3B3ll0t4](https://www.hackthebox.eu/home/teams/profile/149) | [Blocky](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Blocky/vis0r_blocky.pdf) |  
-13 | Killerloops |  [<img src="./images/killerloops.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/4180) |  [prosegur](https://www.hackthebox.eu/home/teams/profile/1811) | | [Tear or dear](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/reversing/tearordear/killerloops-tearordear.pdf) |   
+13 | Killerloops |  [<img src="./images/killerloops.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/4180) |  [prosegur](https://www.hackthebox.eu/home/teams/profile/79) | | [Tear or dear](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/reversing/tearordear/killerloops-tearordear.pdf) |   
