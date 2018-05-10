@@ -4,7 +4,7 @@ Writeups for HacktheBox machines (boot2root) and challenges written in Spanish o
 https://www.hackthebox.eu/  
 
 **Important**
-All Challenge Writeups are password protected with the corresponding flag.
+All Challenge Writeups are password protected with the corresponding flag.  
 **Active** machines writeups are protected with the corresponding root flag.
 
 ![hpys_htb_writeups logo](./images/htb_writeup.png)  
