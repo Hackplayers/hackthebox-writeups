@@ -71,6 +71,8 @@ Note: the minimum requirement to enter the "special" Telegram group is also to h
 42 | <img src="./images/countries/italy.png" height="24" width="24"> | Renero |  [<img src="./images/renero.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/5420) |  [criuz](https://www.hackthebox.eu/home/teams/profile/621) | | [Digital Cube](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/stego/Digital_Cube/renero-digitalcube.pdf) |  
 43 | <img src="./images/countries/spain.png" height="24" width="24"> | Gibdeon |  [<img src="./images/gibdeon.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/2226) |  [PKTeam](https://www.hackthebox.eu/home/teams/profile/122) | | [Old Bridge](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/pwn/old_bridge/gibdeon-old_bridge.rar) |  
 44 | <img src="./images/countries/spain.png" height="24" width="24"> | therearwindow |  [<img src="./images/therearwindow.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/27031) | solitaire wolf | | [Beatles](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Beatles/therearwindow-beatles.pdf)  |  
+45 | <img src="./images/countries/spain.png" height="24" width="24"> | kabutor |  [<img src="./images/kabutor.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/30810) | solitaire wolf | [Aragog](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Aragog/kabutor-aragog.pdf) | |  
+
 
 # Special note  
 
