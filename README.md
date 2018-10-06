@@ -23,7 +23,7 @@ In this way, you will be added to our **top contributors list** (see below) and 
 Note: the minimum requirement to enter the "special" Telegram group is also to have a hacker level or higher (no script kiddies).  
 
 
-Feature image# Contributors
+# Contributors
 
 
  No | ctry | nick | avatar | team | machines | challenges
