@@ -81,6 +81,7 @@ Note: the minimum requirement to enter the "special" Telegram group is also to h
 51 | <img src="./images/countries/world.png" height="24" width="24"> | zdravich |  [<img src="./images/zdravich.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/48306) | [TMHC](https://www.hackthebox.eu/home/teams/profile/709) | [Carrier](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Carrier/zdravich-carrier.pdf) | |
 52 | <img src="./images/countries/russia.png" height="24" width="24"> | icebreakcrypt |  [<img src="./images/icebreakcrypt.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/26488) | Solitaire wolf | | [Massacre](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/stego/Massacre/icebreakcrypt-massacre.pdf) |
 53 | <img src="./images/countries/italy.png" height="24" width="24"> | luthorien |  [<img src="./images/luthorien.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/48306) | [ARGSS](https://www.hackthebox.eu/home/teams/profile/1032) | | [Not Art](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/stego/Not%20Art/luthorien-not_art.pdf) |
+54 | <img src="./images/countries/holland.png" height="24" width="24"> | wilde |  [<img src="./images/wilde.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/73116) | Solitaire wolf | [Active](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Active/wilde-active.zip) | |
 
 
 # Special note  
