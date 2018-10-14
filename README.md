@@ -79,6 +79,7 @@ Note: the minimum requirement to enter the "special" Telegram group is also to h
 49 | <img src="./images/countries/usa.png" height="24" width="24"> | Paint |  [<img src="./images/paint.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/48707) | solitaire wolf | [Carrier](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Carrier/paint-carrier.pdf) | |  
 50 | <img src="./images/countries/world.png" height="24" width="24"> | labyrinth |  [<img src="./images/labyrinth.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/10971) |  [badwolf](https://www.hackthebox.eu/home/teams/profile/999) | | [Ebola Virus](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/crypto/ebola/labyrinth-ebola.pdf) | |
 51 | <img src="./images/countries/world.png" height="24" width="24"> | zdravich |  [<img src="./images/zdravich.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/48306) | [TMHC](https://www.hackthebox.eu/home/teams/profile/709) | [Carrier](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Carrier/zdravich-carrier.pdf) | |
+52 | <img src="./images/countries/russia.png" height="24" width="24"> | icebreakcrypt |  [<img src="./images/icebreakcrypt.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/26488) | Solitaire wolf | | [Massacre](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/stego/Massacre/icebreakcrypt-massacre.pdf) |
 
 # Special note  
 
