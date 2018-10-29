@@ -20,7 +20,7 @@ If you want to incorporate your own writeup, notes, scripts or other material to
 
 In this way, you will be added to our **top contributors list** (see below) and you will also receive an **invitation link to an exclusive Telegram group** where several hints (not spoilers) are discussed for the HacktheBox machines.  
 
-Please consider **protecting the text of your writeup** (e.g. not allowing it to be copied) so that it can not be easily shared on platforms such as Pastebin. Of course, if someone leaks a writeup of an active machine it is not the responsibility of the author. If we detect someone who does it, they will immediately report to the HTB Staff so they can take the appropriate measures.
+Please consider **protecting the text of your writeup** (e.g. not allowing to be copied) so that it can not be easily shared on platforms such as Pastebin. Of course, if someone leaks a writeup of an active machine it is not the responsibility of the author. If we detect someone who does it, they will immediately report to the HTB Staff so they can take the appropriate measures.
 
 Note: the minimum requirement to enter the "special" Telegram group is also to have a hacker level or higher (no script kiddies).  
 
