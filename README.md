@@ -93,7 +93,7 @@ Note: the minimum requirement to enter the "special" Telegram group is also to h
 61 | <img src="./images/countries/turkey.png" height="24" width="24"> | dionero |  [<img src="./images/dionero.png" height="42" width="42">](https://www.hackthebox.eu/profile/65313) |  solitaire wolf | [Jerry](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Jerry/dionero-jerry.pdf) |   |
 62 | <img src="./images/countries/germany.png" height="24" width="24"> | Sekisback |  [<img src="./images/sekisback.png" height="42" width="42">](https://www.hackthebox.eu/profile/73424) |  solitaire wolf | [Carrier](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Carrier/sekisback-Carrier.pdf) |   |
 63 | <img src="./images/countries/bangladesh.png" height="24" width="24"> | TheShahzada |  [<img src="./images/TheShahzada.png" height="42" width="42">](https://www.hackthebox.eu/profile/37502) |  solitaire wolf | [Mischief](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Mischief/TheShahzada%20-%20Mischief.pdf) |   |
-64 | <img src="./images/countries/bangladesh.png" height="24" width="24"> | SadClown |  [<img src="./images/SadClown.png" height="42" width="42">](https://www.hackthebox.eu/profile/10505) |  solitaire wolf | [Redcross](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Redcross/SadClown-RedCross.pdf) |   |
+64 | <img src="./images/countries/bangladesh.png" height="24" width="24"> | SadClown |  [<img src="./images/sadclown.png" height="42" width="42">](https://www.hackthebox.eu/profile/10505) |  solitaire wolf | [Redcross](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Redcross/SadClown-RedCross.pdf) |   |
   
 # Special note  
 
