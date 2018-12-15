@@ -92,6 +92,7 @@ Note: the minimum requirement to enter the "special" Telegram group is also to h
 60 | <img src="./images/countries/germany.png" height="24" width="24"> | coldBug | [<img src="./images/coldbug.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/3893) |  [NeatMalwAreParty](https://www.hackthebox.eu/home/teams/profile/1006) | [Curling](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Curling/coldbug-curling.pdf) | |
 61 | <img src="./images/countries/turkey.png" height="24" width="24"> | dionero |  [<img src="./images/dionero.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/65313) |  solitaire wolf | [Jerry](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Jerry/dionero-jerry.pdf) |   |
 62 | <img src="./images/countries/germany.png" height="24" width="24"> | Sekisback |  [<img src="./images/sekisback.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/73424) |  solitaire wolf | [Carrier](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Carrier/sekisback-Carrier.pdf) |   |
+63 | <img src="./images/countries/bangladesh.png" height="24" width="24"> | TheShahzada |  [<img src="./images/TheShahzada.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/37502) |  solitaire wolf | [Mischief](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Mischief/TheShahzada%20-%20Mischief.pdf) |   |
   
 # Special note  
 
