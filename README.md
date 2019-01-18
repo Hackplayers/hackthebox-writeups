@@ -96,6 +96,8 @@ Note: the minimum requirement to enter the "special" Telegram group is also to h
 64 | <img src="./images/countries/bangladesh.png" height="24" width="24"> | TheShahzada |  [<img src="./images/TheShahzada.png" height="42" width="42">](https://www.hackthebox.eu/profile/37502) |  solitaire wolf | [Mischief](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Mischief/TheShahzada%20-%20Mischief.pdf) |   |
 65 | <img src="./images/countries/bangladesh.png" height="24" width="24"> | SadClown |  [<img src="./images/sadclown.png" height="42" width="42">](https://www.hackthebox.eu/profile/10505) |  solitaire wolf | [Redcross](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Redcross/SadClown-RedCross.pdf) |   |
 66 | <img src="./images/countries/spain.png" height="24" width="24"> | julianjm |  [<img src="./images/julianjm.png" height="42" width="42">](https://www.hackthebox.eu/profile/56525) |  solitaire wolf | | [Old Bridge](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/pwn/old_bridge/julianjm-old_bridge.7z)  |
+67 | <img src="./images/countries/world.png" height="24" width="24"> | snowman418 |  [<img src="./images/snowman418.png" height="42" width="42">](https://www.hackthebox.eu/profile/61176) |  solitaire wolf | [Reel](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Reel/snowman418-reel.pdf) | |
+68 | <img src="./images/countries/poland.png" height="24" width="24"> | wilsonnkwan |  [<img src="./images/wilsonnkwan.png" height="42" width="42">](https://www.hackthebox.eu/profile/53043) |  solitaire wolf | [Ethereal](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Ethereal/wilsonnkwan%20-%20Ethereal.pdf) |  |
 
 # Special note  
 
