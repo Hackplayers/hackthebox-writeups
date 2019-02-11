@@ -99,6 +99,7 @@ Note: the minimum requirement to enter the "special" Telegram group is also to h
 67 | <img src="./images/countries/world.png" height="24" width="24"> | snowman418 |  [<img src="./images/snowman418.png" height="42" width="42">](https://www.hackthebox.eu/profile/61176) |  solitaire wolf | [Reel](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Reel/snowman418-reel.pdf) | |
 68 | <img src="./images/countries/poland.png" height="24" width="24"> | wilsonnkwan |  [<img src="./images/wilsonnkwan.png" height="42" width="42">](https://www.hackthebox.eu/profile/53043) |  solitaire wolf | [Ethereal](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Ethereal/wilsonnkwan%20-%20Ethereal.pdf) |  |
 69 | <img src="./images/countries/Romania.png" height="24" width="24"> | jondow |  [<img src="./images/jondow.png" height="42" width="42">](https://www.hackthebox.eu/profile/51540) |  [Bailando](https://www.hackthebox.eu/home/teams/profile/1057) | [Help](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Help/jondow-help.pdf) |  |
+70 | <img src="./images/countries/Ukraine.png" height="24" width="24"> | lolfireball |  [<img src="./images/lolfireball.png" height="42" width="42">](https://www.hackthebox.eu/profile/20891) | solitaire wolf | [Lightweight](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Lightweight/lolfireball-lightweight.pdf) |  |
 
 # Special note  
 
