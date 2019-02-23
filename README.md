@@ -102,6 +102,7 @@ Note: the minimum requirement to enter the "special" Telegram group is also to h
 70 | <img src="./images/countries/Romania.png" height="24" width="24"> | jondow |  [<img src="./images/jondow.png" height="42" width="42">](https://www.hackthebox.eu/profile/51540) |  [Bailando](https://www.hackthebox.eu/home/teams/profile/1057) | [Help](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Help/jondow-help.pdf) |  |
 71 | <img src="./images/countries/ukraine.png" height="24" width="24"> | lolfireball |  [<img src="./images/Lolfireball.png" height="42" width="42">](https://www.hackthebox.eu/profile/20891) | solitaire wolf | [Lightweight](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Lightweight/lolfireball-lightweight.pdf) |  |
 72 | <img src="./images/countries/canada.png" height="24" width="24"> | solsanctum |  [<img src="./images/solsanctum.png" height="42" width="42">](https://www.hackthebox.eu/profile/43421) | solitaire wolf | [Carrier](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Carrier/solsanctum-carrier.pdf) |  |
+73 | <img src="./images/countries/usa.png" height="24" width="24"> | fbbc |  [<img src="./images/fbbc.png" height="42" width="42">](https://www.hackthebox.eu/profile/96988) | solitaire wolf | [Conceal](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Conceal/fbbc-Conceal.pdf) |  |
 
 # Special note  
 
