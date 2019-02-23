@@ -103,6 +103,7 @@ Note: the minimum requirement to enter the "special" Telegram group is also to h
 71 | <img src="./images/countries/ukraine.png" height="24" width="24"> | lolfireball |  [<img src="./images/Lolfireball.png" height="42" width="42">](https://www.hackthebox.eu/profile/20891) | solitaire wolf | [Lightweight](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Lightweight/lolfireball-lightweight.pdf) |  |
 72 | <img src="./images/countries/canada.png" height="24" width="24"> | solsanctum |  [<img src="./images/solsanctum.png" height="42" width="42">](https://www.hackthebox.eu/profile/43421) | solitaire wolf | [Carrier](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Carrier/solsanctum-carrier.pdf) |  |
 73 | <img src="./images/countries/usa.png" height="24" width="24"> | fbbc |  [<img src="./images/fbbc.png" height="42" width="42">](https://www.hackthebox.eu/profile/96988) | solitaire wolf | [Conceal](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Conceal/fbbc-Conceal.pdf) |  |
+74 | <img src="./images/countries/singapore.png" height="24" width="24"> | wilsonnkwan |  [<img src="./images/wilsonnkwan.png" height="42" width="42">](https://www.hackthebox.eu/profile/53043) | [AutismGO](https://www.hackthebox.eu/home/teams/profile/1034) | [Ethereal](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Ethereal/wilsonnkwan%20-%20Ethereal.pdf) |  |
 
 # Special note  
 
