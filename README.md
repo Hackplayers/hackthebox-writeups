@@ -108,6 +108,7 @@ Note: the minimum requirement to enter the "special" Telegram group is also to h
 76 | <img src="./images/countries/cyprus.png" height="24" width="24"> | superhedgy |  [<img src="./images/superhedgy.png" height="42" width="42">](https://www.hackthebox.eu/profile/5769) | Solitaire wolf | [Netmon](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Netmon/superhedgy-Netmon_Walkthrough.pdf) |  |
 77 | <img src="./images/countries/mexico.png" height="24" width="24"> | blazz3 |  [<img src="./images/blazz3.png" height="42" width="42">](https://www.hackthebox.eu/profile/28450) | [PwnD34L3rS](https://www.hackthebox.eu/home/teams/profile/920) | [Sizzle](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Sizzle/blazz3-sizzle.pdf) |  |
 78 | <img src="./images/countries/spain.png" height="24" width="24"> | Marduk |  [<img src="./images/Marduk.png" height="42" width="42">](https://www.hackthebox.eu/profile/37256) | [PwnD34L3rS](https://www.hackthebox.eu/home/teams/profile/920) | [Helpline](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Helpline/markuk-helpline.pdf) |  |
+79 | <img src="./images/countries/spain.png" height="24" width="24"> | Leonishan |  [<img src="./images/leonishan.png" height="42" width="42">](https://www.hackthebox.eu/profile/3182) | solitaire wolf | [Helpline](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Helpline/leonishan-helpline.pdf) |  |
 
 # Special note  
 
