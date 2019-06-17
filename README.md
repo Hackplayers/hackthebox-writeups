@@ -115,6 +115,7 @@ Note: the minimum requirement to enter the "special" Telegram group is also to h
 83 | <img src="./images/countries/uk.png" height="24" width="24"> | explmuzz |  [<img src="./images/explmuzz.png" height="42" width="42">](https://www.hackthebox.eu/profile/33961) | [N00b543V3R](https://www.hackthebox.eu/home/teams/profile/164) | [Bastion](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Bastion/explmuzz-Bastion.pdf) | |
 84 | <img src="./images/countries/world.png" height="24" width="24"> | AlhA |  [<img src="./images/AlhA.png" height="42" width="42">](https://www.hackthebox.eu/profile/63348) | solitaire wolf | | [Emdee Five for Live](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/web/Emdee%20five%20for%20life/AlhA-Emdee_Five_For_Life.zip) |
 85 | <img src="./images/countries/spain.png" height="24" width="24"> | SirBroccoli |  [<img src="./images/SirBroccoli.png" height="42" width="42">](https://www.hackthebox.eu/profile/57519) | Solitaire wolf | [SwagShop](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/SwagShop/SirBroccoli-SwagShop.pdf) |  |
+86 | <img src="./images/countries/spain.png" height="24" width="24"> | BinaryShadow |  [<img src="./images/BinaryShadow.png" height="42" width="42">](https://www.hackthebox.eu/profile/14785) | [Watch4Hack](https://www.hackthebox.eu/home/teams/profile/401) | | [Call](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/crypto/Call/BinaryShadow-Call.pdf) |
 
 
 # Special note  
