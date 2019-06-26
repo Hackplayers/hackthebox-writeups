@@ -118,7 +118,7 @@ Note: the minimum requirement to enter the "special" Telegram group is also to h
 86 | <img src="./images/countries/world.png" height="24" width="24"> | AlhA |  [<img src="./images/AlhA.png" height="42" width="42">](https://www.hackthebox.eu/profile/63348) | solitaire wolf | | [Emdee Five for Live](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/web/Emdee%20five%20for%20life/AlhA-Emdee_Five_For_Life.zip) |
 87 | <img src="./images/countries/usa.png" height="24" width="24"> | d0n601 |  [<img src="./images/d0n601.png" height="42" width="42">](https://www.hackthebox.eu/profile/133999) | Solitaire wolf | [Luke](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Luke/d0n601-luke.pdf) | |
 88 | <img src="./images/countries/greece.png" height="24" width="24"> | cavla |  [<img src="./images/cavla.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/115536) | Solitaire wolf | | [Crooked Crockford](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/misc/Crooked%20Crockford/cavla-Crooked_Crockford.pdf) |
-
+89 | <img src="./images/countries/russia.png" height="24" width="24"> | tabacci |  [<img src="./images/tabacci.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/69650) | Solitaire wolf | [HackBack](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Hackback/tabacci-HackBack.pdf | |
 
 # Special note  
 
