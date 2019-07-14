@@ -121,7 +121,7 @@ Note: the minimum requirement to enter the "special" Telegram group is also to h
 89 | <img src="./images/countries/greece.png" height="24" width="24"> | cavla |  [<img src="./images/cavla.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/115536) | Solitaire wolf | | [Crooked Crockford](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/misc/Crooked%20Crockford/cavla-Crooked_Crockford.pdf) |
 90 | <img src="./images/countries/russia.png" height="24" width="24"> | tabacci |  [<img src="./images/tabacci.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/69650) | Solitaire wolf | [HackBack](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Hackback/tabacci-HackBack.pdf) | |
 91 | <img src="./images/countries/sweden.png" height="24" width="24"> | entropy |  [<img src="./images/entropy.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/47876) | Solitaire wolf | | [Crooked Crockford](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/misc/Crooked%20Crockford/Entropy-Crooked_Crockford.zip) |
-
+92 | <img src="./images/countries/brazil.png" height="24" width="24"> | MrP4p3r |  [<img src="./images/MrP4p3r.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/55453) | Solitaire wolf | | [Fuzzy](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/web/Fuzzy/MrP4p3r-Fuzzy.pdf) |
 
 # Special note  
 
