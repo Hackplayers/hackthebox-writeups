@@ -122,6 +122,7 @@ Note: the minimum requirement to enter the "special" Telegram group is also to h
 90 | <img src="./images/countries/russia.png" height="24" width="24"> | tabacci |  [<img src="./images/tabacci.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/69650) | Solitaire wolf | [HackBack](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Hackback/tabacci-HackBack.pdf) | |
 91 | <img src="./images/countries/sweden.png" height="24" width="24"> | entropy |  [<img src="./images/entropy.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/47876) | Solitaire wolf | | [Crooked Crockford](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/misc/Crooked%20Crockford/Entropy-Crooked_Crockford.zip) |
 92 | <img src="./images/countries/brazil.png" height="24" width="24"> | MrP4p3r |  [<img src="./images/MrP4p3r.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/55453) | Solitaire wolf | | [Fuzzy](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/web/Fuzzy/MrP4p3r-Fuzzy.pdf) |
+93 | <img src="./images/countries/spain.png" height="24" width="24"> | Pepelu |  [<img src="./images/pepelu.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/105086) | Solitaire wolf | [Player](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Player/josehares-Player.pdf)| |
 
 # Special note  
 
