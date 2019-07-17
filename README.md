@@ -124,6 +124,8 @@ Note: the minimum requirement to enter the "special" Telegram group is also to h
 92 | <img src="./images/countries/brazil.png" height="24" width="24"> | MrP4p3r |  [<img src="./images/MrP4p3r.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/55453) | Solitaire wolf | | [Fuzzy](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/web/Fuzzy/MrP4p3r-Fuzzy.pdf) |
 93 | <img src="./images/countries/spain.png" height="24" width="24"> | Pepelu |  [<img src="./images/pepelu.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/105086) | Solitaire wolf | [Player](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Player/josehares-Player.pdf)| |
 93 | <img src="./images/countries/world.png" height="24" width="24"> | emmanuel |  [<img src="./images/emmanuel.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/39975) | Solitaire wolf | [Craft](https://github.com/emmaunel/hackthebox-writeups/blob/master/machines/Craft/emmanuel-craft.pdf)| |
+94 | <img src="./images/countries/world.png" height="24" width="24"> | Cript0crc |  [<img src="./images/crypt0crc.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/2128) | Solitaire wolf | | [Eemedefive for live](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/web/Emdee%20five%20for%20life/Cript0crc-emdee_five_for_life.zip)|
+
 
 # Special note  
 
