@@ -128,6 +128,7 @@ Note: the minimum requirement to enter the "special" Telegram group is also to h
 95 | <img src="./images/countries/world.png" height="24" width="24"> | bWlrZQo | [<img src="./images/bWlrZQo.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/146577) | [USCh4ck3r5](https://www.hackthebox.eu/home/teams/profile/1712) | [Craft](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Craft/bWlrZQo-Craft.pdf) | |
 96 | <img src="./images/countries/world.png" height="24" width="24"> | ChrisTo | [<img src="./images/christo.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/158833) | Solitaire wolf | [Bastion](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Bastion/ChrisTo-Bastion.pdf) | |
 97 | <img src="./images/countries/world.png" height="24" width="24"> | naveen1729 | [<img src="./images/naveen1729.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/158833) | Solitaire wolf | [Player](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Player/naveen1729-player.pdf) | |
+98 | <img src="./images/countries/malaysia.png" height="24" width="24"> | Jacker31 | [<img src="./images/Jacker31.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/72484) | [NightTrain](https://www.hackthebox.eu/home/teams/profile/1498) | [Heist](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Heist/Jacker31-Heist.pdf) | |
 
 
 # Special note  
