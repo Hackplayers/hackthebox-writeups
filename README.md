@@ -138,6 +138,7 @@ Note: the minimum requirement to enter the "special" Telegram group is also to h
 107	 | <img src="./images/countries/germany.png" height="24" width="24"> | arcc |  [<img src="./images/arcc.png" height="42" width="42">](https://www.hackthebox.eu/profile/165891) | | [json](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Json/HTB%20write-up_%20Json%20-%20by%20arcc_encrypted.pdf) [bitlab](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Bitlab/Write-Up_%20bitlab%20-%20by%20arcc_encrypted.pdf)|	  
 108	 | <img src="./images/countries/india.png" height="24" width="24"> | CRYPT0HEX | [<img src="./images/CRYPT0HEX.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/45998) |  | [Writeup](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/writeup/CRYPT0HEX-writeup.pdf) | |	  
 109	 | <img src="./images/countries/pakistan.png" height="24" width="24"> | couchpotato | [<img src="./images/couchpotato.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/60494) |  | [Heist](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Heist/couchpotato-Heist.pdf) | |	  
+110	 | <img src="./images/countries/uk.png" height="24" width="24"> | hyperreality | [<img src="./images/hyperreality.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/49704) | Solitaire wolf |  | [Optimus Prime](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/crypto/Optimus_Prime/hyperreality-optimus-prime.zip) |
 
 
 
