@@ -151,6 +151,7 @@ Note: the minimum requirement to enter the "special" Telegram group is also to h
 <img src="./images/countries/india.png" height="24" width="24"> | CRYPT0HEX | [<img src="./images/CRYPT0HEX.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/45998) |Solitaire wolf  | [Writeup](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/writeup/CRYPT0HEX-writeup.pdf) | |	  
 <img src="./images/countries/pakistan.png" height="24" width="24"> | couchpotato | [<img src="./images/couchpotato.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/60494) | Solitaire wolf | [Heist](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Heist/couchpotato-Heist.pdf) | |	  
 <img src="./images/countries/australia.png" height="24" width="24"> | sneakypanda | [<img src="./images/sneakypanda.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/100087) | [Mystiko](https://www.hackthebox.eu/home/teams/profile/1834) | [Zetta](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Zetta/sneakypanda-zetta.pdf) | |	 
+<img src="./images/countries/uk.png" height="24" width="24"> | hyperreality | [<img src="./images/hyperreality.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/49704) | Solitaire wolf |  | [Optimus Prime](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/crypto/Optimus_Prime/hyperreality-optimus-prime.zip) |
 
 
 # Special note  
