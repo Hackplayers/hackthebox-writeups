@@ -154,6 +154,7 @@ Note: the minimum requirement to enter the "special" Telegram group is also to h
 <img src="./images/countries/australia.png" height="24" width="24"> | sneakypanda | [<img src="./images/sneakypanda.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/100087) | [Mystiko](https://www.hackthebox.eu/home/teams/profile/1834) | [Zetta](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Zetta/sneakypanda-zetta.pdf) | |
 <img src="./images/countries/uk.png" height="24" width="24"> | hyperreality | [<img src="./images/hyperreality.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/49704) | Solitaire wolf |  | [Optimus Prime](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/crypto/Optimus_Prime/hyperreality-optimus-prime.zip) |
 <img src="./images/countries/canada.png" height="24" width="24"> | DarkNight2019 | [<img src="./images/Darknight2019.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/127667) | [T0pt33m](https://www.hackthebox.eu/home/teams/profile/1637) | [Forest](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Forest/Darknight2019-forest.pdf) | |
+<img src="./images/countries/switzerland.png" height="24" width="24"> | nitrow | [<img src="./images/GDK.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/116659) | Solitaire wolf | | [Image Processing 101](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/stego/ImageProcessing101/nitrow-imageprocessing101.pdf) |
 
 
 
