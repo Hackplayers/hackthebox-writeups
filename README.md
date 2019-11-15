@@ -160,7 +160,7 @@ Note: the minimum requirement to enter the "special" Telegram group is also to h
 <img src="./images/countries/switzerland.png" height="24" width="24"> | nitrow | [<img src="./images/GDK.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/116659) | Solitaire wolf | | [Image Processing 101](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/stego/ImageProcessing101/nitrow-imageprocessing101.pdf) |
 <img src="./images/countries/colombia.png" height="24" width="24"> | Cyb3rb0b | [<img src="./images/Cyb3rb0b.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/61047) | Solitaire wolf | [Json](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Json/Cyb3rb0b-Json.pdf) |
 <img src="./images/countries/uk.png" height="24" width="24"> | N7E | [<img src="./images/N7E.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/184764) | [iamroot](https://www.hackthebox.eu/home/teams/profile/2098)  | [Mango](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Mango/n7e-mango.pdf) |
-<img src="./images/countries/india.png" height="24" width="24"> | Parteek Singh |  [<img src="./images/parteeksingh.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/17564) | [D3v1L5](https://www.hackthebox.eu/home/teams/profile/2017)  | [Sniper](https://github.com/parteeksingh005/hackthebox-writeups/blob/master/Sniper_Writeup-Parteek%20Singh.pdf) |
+
 
 
 
