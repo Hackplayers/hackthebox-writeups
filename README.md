@@ -166,6 +166,7 @@ Note: the minimum requirement to enter the "special" Telegram group is also to h
 <img src="./images/countries/india.png" height="24" width="24"> | Parteek Singh |  [<img src="./images/parteeksingh.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/17564) | [D3v1L5](https://www.hackthebox.eu/home/teams/profile/2017)  | [Sniper](https://github.com/parteeksingh005/hackthebox-writeups/blob/master/machines/Sniper/Sniper_Writeup-Parteek%20Singh.pdf) | |
 <img src="./images/countries/canada.png" height="24" width="24"> | c1cada | [<img src="./images/c1cada.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/168018) | CommandlineKings | [Obscurity](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Obscurity/HTB%20Obscurity-c1cada.pdf) | |
 <img src="./images/countries/india.png" height="24" width="24"> | Mrigendra Soni |  [<img src="./images/mrigendra.png" height="42" width="42">](https://www.hackthebox.eu/profile/89725) | Solitaire Wolf  | [Postman](https://github.com/Mrig26/hackthebox-writeups/blob/master/machines/Postman/isuroot-Postman.pdf) | |
+|<img src="./images/countries/usa.png" height="24" width="24">| mikeywayne |<img src="https://www.hackthebox.eu/storage/avatars/57bdca8ee4a702c56371607d6fbc9a7a.png" height="42" width="42"> | Solitaire Wolf  | [traverxec](https://github.com/Michael-Wayne-Wells/traverxec-writeup.git)| |
 
 
 
