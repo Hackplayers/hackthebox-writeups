@@ -168,7 +168,7 @@ Note: the minimum requirement to enter the "special" Telegram group is also to h
 <img src="./images/countries/canada.png" height="24" width="24"> | c1cada | [<img src="./images/c1cada.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/168018) | CommandlineKings | [Obscurity](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Obscurity/HTB%20Obscurity-c1cada.pdf) | |
 <img src="./images/countries/india.png" height="24" width="24"> | Mrigendra Soni |  [<img src="./images/mrigendra.png" height="42" width="42">](https://www.hackthebox.eu/profile/89725) | Solitaire Wolf  | [Postman](https://github.com/Mrig26/hackthebox-writeups/blob/master/machines/Postman/isuroot-Postman.pdf) | |
 |<img src="./images/countries/usa.png" height="24" width="24">| mikeywayne |<img src="https://www.hackthebox.eu/storage/avatars/57bdca8ee4a702c56371607d6fbc9a7a.png" height="42" width="42"> | Solitaire Wolf  | [traverxec](https://github.com/Michael-Wayne-Wells/traverxec-writeup.git)| |
-|<img src="./images/countries/spain.png" height="24" width="24">| k1000o |<img src="https://www.hackthebox.eu/storage/avatars/0430c06bb395df9e041bc729cb70436c.png" height="42" width="42"> | p0t4t03s | | [ezpz](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/web/ezpz/Ezpz_k10000.pdf) | 
+|<img src="./images/countries/spain.png" height="24" width="24">| Milo |<img src="https://www.hackthebox.eu/storage/avatars/0430c06bb395df9e041bc729cb70436c.png" height="42" width="42"> | p0t4t03s | | [ezpz](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/web/ezpz/Ezpz_k10000.pdf) | 
 
 # Special note  
 
