@@ -172,6 +172,7 @@ Note: the minimum requirement to enter the "special" Telegram group is also to h
 |<img src="./images/countries/spain.png" height="24" width="24">| Milo |<img src="https://www.hackthebox.eu/storage/avatars/0430c06bb395df9e041bc729cb70436c.png" height="42" width="42"> | p0t4t03s | | [ezpz](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/web/ezpz/Ezpz_k10000.pdf) | |
 <img src="./images/countries/india.png" height="24" width="24"> | N1Z4M | [<img src="./images/nizam.png" height="42" width="42">](https://www.hackthebox.eu/profile/91021) | [7eam4dholokam](https://www.hackthebox.eu/home/teams/profile/1625)  | [OpenAdmin](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/OpenAdmin/HTB-N1Z4M-OpenAdmin.pdf) |
 <img src="./images/countries/indonesia.png" height="24" width="24"> | corshine | [<img src="./images/corshine.png" height="42" width="42">](https://www.hackthebox.eu/profile/122977) | Solitaire Wolf | [OpenAdmin](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/OpenAdmin/HTB-CORSHINE-OpenAdmin.pdf) |
+<img src="./images/countries/usa.png" height="24" width="24"> | SevenLayerJedi | [<img src="./images/SevenLayerJedi.png" height="42" width="42">](https://www.hackthebox.eu/profile/84131) | Solitaire Wolf | [Nest](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Nest/SevenLayerJedi-Nest.pdf) |
 
 # Special note  
 
