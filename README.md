@@ -174,6 +174,9 @@ Note: the minimum requirement to enter the "special" Telegram group is also to h
 <img src="./images/countries/indonesia.png" height="24" width="24"> | corshine | [<img src="./images/corshine.png" height="42" width="42">](https://www.hackthebox.eu/profile/122977) | Solitaire Wolf | [OpenAdmin](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/OpenAdmin/HTB-CORSHINE-OpenAdmin.pdf) |
 <img src="./images/countries/usa.png" height="24" width="24"> | SevenLayerJedi | [<img src="./images/SevenLayerJedi.png" height="42" width="42">](https://www.hackthebox.eu/profile/84131) | Solitaire Wolf | [Nest](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Nest/SevenLayerJedi-Nest.pdf) |
 <img src="./images/countries/singapore.png" height="24" width="24"> | IamKsNoob | [<img src="./images/iamksnoob.png" height="42" width="42">](https://www.hackthebox.eu/profile/151049) | | [Postman](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Postman/IamKsNoob-Postman.pdf) |
+<img src="./images/countries/mexico.png" height="24" width="24"> | IamKsNoob | [<img src="./images/stronger2.png" height="42" width="42">](https://www.hackthebox.eu/profile/178277) | | [Sniper](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Sniper/SNIPER-Str0ng3erG3ek-ES.pdf) |
+
+
 
 # Special note  
 
