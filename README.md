@@ -103,6 +103,8 @@ Note: the minimum requirement to enter the "special" Telegram group is also to h
 <img src="./images/countries/poland.png" height="24" width="24"> | offk0rs |  [<img src="./images/MemoryLeaks.png" height="42" width="42">](https://www.hackthebox.eu/profile/19242) |  [MemoryLeaks](https://www.hackthebox.eu/home/teams/profile/1680) | [Safe,](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Safe/MemoryLeaks-Safe.pdf) [Ellingson, ](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Ellingson/MemoryLeaks-Ellingson.pdf) [Jarvis](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Jarvis/MemoryLeaks-Jarvis.pdf) |  |	  
 <img src="./images/countries/malaysia.png" height="24" width="24"> | Jacker31 | [<img src="./images/Jacker31.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/72484) | [NightTrain](https://www.hackthebox.eu/home/teams/profile/1498) | [Heist](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Heist/Jacker31-Heist.pdf), [OpenAdmin](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/OpenAdmin/Jacker31-OpenAdmin.pdf), [Arkham](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Arkham/Jacker31-Arkham.pdf)| |
 <img src="./images/countries/egypt.png" height="24" width="24"> | Mrx-Exploit |  [<img src="./images/mrx-Exploit.png" height="42" width="42">](https://www.hackthebox.eu/profile/47422) | [TCLRED](https://www.hackthebox.eu/home/teams/profile/1709) | [Traverxec](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Traverxec/Mrx-Exploit(Traverxec)-protected.pdf) | [Ezpz](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/web/ezpz/Mrx-Exploit(Ezpz-Writeup).pdf) |
+<img src="./images/countries/mexico.png" height="24" width="24"> | Str0ng3erG3ek | [<img src="./images/stronger2.png" height="42" width="42">](https://www.hackthebox.eu/profile/178277) | | [Registry](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Sniper/REGISTRY-Str0ng3erG3ek-ES.pdf), [Sniper](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Sniper/SNIPER-Str0ng3erG3ek-ES.pdf) |
+
 
 # Fleeting contributors (1 writeup)
 
@@ -174,6 +176,9 @@ Note: the minimum requirement to enter the "special" Telegram group is also to h
 <img src="./images/countries/indonesia.png" height="24" width="24"> | corshine | [<img src="./images/corshine.png" height="42" width="42">](https://www.hackthebox.eu/profile/122977) | Solitaire Wolf | [OpenAdmin](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/OpenAdmin/HTB-CORSHINE-OpenAdmin.pdf) |
 <img src="./images/countries/usa.png" height="24" width="24"> | SevenLayerJedi | [<img src="./images/SevenLayerJedi.png" height="42" width="42">](https://www.hackthebox.eu/profile/84131) | Solitaire Wolf | [Nest](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Nest/SevenLayerJedi-Nest.pdf) |
 <img src="./images/countries/singapore.png" height="24" width="24"> | IamKsNoob | [<img src="./images/iamksnoob.png" height="42" width="42">](https://www.hackthebox.eu/profile/151049) | | [Postman](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Postman/IamKsNoob-Postman.pdf) |
+
+
+
 
 # Special note  
 
