@@ -180,6 +180,7 @@ Note: the minimum requirement to enter the "special" Telegram group is also to h
 <img src="./images/countries/singapore.png" height="24" width="24"> | IamKsNoob | [<img src="./images/iamksnoob.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/151049) | Solitaire Wolf | [Postman](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Postman/IamKsNoob-Postman.pdf) |
 <img src="./images/countries/tunisia.png" height="24" width="24"> | Bayrem |  [<img src="./images/bayrem.jpg" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/10568) | Solitaire Wolf  |  | [Cartographer](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/web/cartographer/INTJic-Cartographer.zip) |
 <img src="./images/countries/saudiarabia.png" height="24" width="24"> | 3gbCyber | [<img src="./images/3gbCyber.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/191167) | [KAU](https://www.hackthebox.eu/home/teams/profile/2139)  | [OpenAdmin](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/OpenAdmin/3gbCyber-OpenAdmin.pdf) |
+<img src="./images/countries/usa.png" height="24" width="24"> | FlapJack | [<img src="./images/FlapJack.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/6397) | [NashvilleCTF](https://www.hackthebox.eu/home/teams/profile/1993)  | [OpenAdmin](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/OpenAdmin/FlapJack-OpenAdmin.pdf) |
 
 
 
