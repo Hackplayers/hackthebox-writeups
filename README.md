@@ -183,7 +183,7 @@ Note: the minimum requirement to enter the "special" Telegram group is also to h
 <img src="./images/countries/usa.png" height="24" width="24"> | FlapJack | [<img src="./images/FlapJack.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/6397) | [NashvilleCTF](https://www.hackthebox.eu/home/teams/profile/1993)  | [OpenAdmin](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/OpenAdmin/FlapJack-OpenAdmin.pdf) |
 <img src="./images/countries/usa.png" height="24" width="24"> | wazKoo | [<img src="./images/wazKoo.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/103543) | [ScripTease](https://www.hackthebox.eu/home/teams/profile/2491)  | [Traceback](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Traceback/wazKoo-traceback.pdf) |
 <img src="./images/countries/world.png" height="24" width="24"> | Shkk | [<img src="./images/Shkk.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/96787) | Solitaire wolf | [Monteverde](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Monteverde/Shkk-Monteverde.pdf) |
-
+<img src="./images/countries/poland.png" height="24" width="24"> | elklepo | [<img src="https://www.hackthebox.eu/storage/avatars/e05d5e9f7f1c8aae15de81b1ba1dcb13.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/144313) | [notSoBad](https://www.hackthebox.eu/home/teams/profile/2540) | [Fatty](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Fatty/elklepo-Fatty.pdf) |
 
 # Special note  
 
