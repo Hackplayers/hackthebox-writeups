@@ -192,7 +192,7 @@ Note: the minimum requirement to enter the "special" Telegram group is also to h
 <img src="./images/countries/austria.png" height="24" width="24"> | Chr0x6eOs | [<img src="https://www.hackthebox.eu/storage/avatars/25cf508b0c1a47dca6ced9166fcdd0fc.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/134448) | SickaLoot | | [QuickR](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/misc/QuickR/Chr0x6eOs_QuickR.pdf)
 <img src="./images/countries/russia.png" height="24" width="24"> | dayld | [<img src="./images/dayld.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/121547) | Solitaire wolf | | [breaking grad](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/web/breaking%20grad/dayld-breaking%20grad.pdf)
 <img src="./images/countries/world.png" height="24" width="24"> | DaWoschbar | [<img src="./images/DaWoschbar.jpg" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/140734) | [SickaLoot](https://www.hackthebox.eu/home/teams/profile/2538) | [Sauna](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Sauna/DaWoschbar-Sauna.pdf) | 
-
+ <img src="./images/countries/france.png" height="24" width="24"> | noraj | [<img src="./images/noraj.png" height="42" width="42">](https://www.hackthebox.eu/profile/32519) | [Rawsec](https://www.hackthebox.eu/home/teams/profile/638) | [Oouch](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Oouch/oouch-HTB-WU-noraj.pdf) | 
 
 # Special note  
 
