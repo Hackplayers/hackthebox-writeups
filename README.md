@@ -4,7 +4,16 @@ Writeups for HacktheBox machines (boot2root) and challenges written in Spanish o
 https://www.hackthebox.eu/  
 
 ## Important notes about password protection
-Machines writeups until 2020 March are protected with the corresponding root flag. But since this date, HTB flags are dynamic and different for every user, so is not possible for us to maintain this kind of system. So from now we will accept only password protected challenges and retired machines (that machine write-ups don't need password).
+Machines writeups until 2020 March are protected with the corresponding root flag. But since this date, HTB flags are dynamic and different for every user, so is not possible for us to maintain this kind of system. So from now we will accept only password protected challenges and machines have to be password protected by the root password hash (Linux) and administrator password hash (Windows). This is accepted by HTB as stated under the 'Protected Writeups' section in [this article](https://www.hackthebox.eu/press/integrity-of-hack-the-box).
+
+The root password hash can be found in /etc/shadow. Only part 2 (see below) is needed to protect the writeup.
+
+![root hash](./images/root_hash_explanation.png)
+
+
+For the administrator password hash, only the NT hash is needed (part 4, see below)
+
+![administrator hash](./images/administrator_hash_explanation.png)
 
 ![hpys_htb_writeups logo](./images/htb_writeup.png)  
 
