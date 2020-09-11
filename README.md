@@ -15,6 +15,14 @@ For the administrator password hash, only the NT hash is needed (part 4, see bel
 
 ![administrator hash](./images/administrator_hash_explanation.png)
 
+Administrator:500:aad3c435b514a4eeaad3b935b51304fe:c46b9e588fa0d112de6f59fd6d58eae3:::
+[-----------][--][-------------------------------]-[---------------------------------]
+|              |                 |                                   |
+|              |                 |                                   +-----------------> 4. NT hash
+|              |                 +-----------------------------------------------------> 3. LM hash
+|              +-----------------------------------------------------------------------> 2. Identifier
++--------------------------------------------------------------------------------------> 1. Username
+
 ![hpys_htb_writeups logo](./images/htb_writeup.png)  
 
 # Disclaimer
