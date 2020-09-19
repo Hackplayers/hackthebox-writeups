@@ -197,6 +197,9 @@ Note: the minimum requirement to enter the "special" Telegram group is also to h
 <img src="./images/countries/france.png" height="24" width="24"> | caracal | [<img src="./images/caracal.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/219989) | [HideAndSec](https://www.hackthebox.eu/home/teams/profile/2075) |  | [Mr. Burns](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/web/Mr.%20Burns/caracal-mrburns.pdf)
 <img src="./images/countries/france.png" height="24" width="24"> | aminegr | [<img src="./images/aminegr.png" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/35604) | Solitaire Wolf |  | [Emdee five for life](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/web/Emdee%20five%20for%20life/aminegr-Emdee_five_for_life.pdf)
 
+
+
+<img src="./images/countries/world.png" height="24" width="24"> | run3 | [<img src="./images/run3.jpg" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/223654) | [hack2tan](https://www.hackthebox.eu/home/teams/profile/2963)  | [Mission Pinpossible] (https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/Hardware/Mission%2DPinpossible%2Dwriteup%2Drun3.pdf)
 # Special note  
 
 Hack the Box is a superb platform to learn pentesting, there are many challenges and machines of different levels and with each one you manage to pass you learn a new thing. But talking among ourselves we realized that many times there are several ways to get rooting a machine, get a flag ... That's why we created this repository, as a site to share different unofficial writeups to see different techniques and acquire even more knowledge. That is our goal and our passion, to share to learn together.  
