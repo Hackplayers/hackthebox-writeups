@@ -4,7 +4,7 @@ Writeups for HacktheBox machines (boot2root) and challenges written in Spanish o
 https://www.hackthebox.eu/  
 
 ## Important notes about password protection
-Machines writeups until 2020 March are protected with the corresponding root flag. But since this date, HTB flags are dynamic and different for every user, so is not possible for us to maintain this kind of system. So from now we will accept only password protected challenges and retired machines (that machine write-ups don't need password).
+Machines writeups until 2020 March are protected with the corresponding root flag. But since this date, HTB flags are dynamic and different for every user, so is not possible for us to maintain this kind of system. So from now we will accept only password protected challenges, endgames, fortresses and retired machines (that machine write-ups don't need password). For endgames or fortresses, the password should be all the flags concatenated.
 
 ![hpys_htb_writeups logo](./images/htb_writeup.png)  
 
