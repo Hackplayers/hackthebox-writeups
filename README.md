@@ -222,7 +222,7 @@ Therefore it is a real pride that they have decided to include the functionality
 [noraj-Control]:https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Control/control-HTB-WU-noraj.pdf
 [noraj-Dyplesher]:https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Dyplesher/dyplesher-HTB-WU-noraj.pdf
 [noraj-Fatty]:https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Fatty/fatty-HTB-WU-noraj.pdf
-[noraj-ForwardSlash]:https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/ForwardSlash/forwardslash-HTB-WU-norj.pdf)
+[noraj-ForwardSlash]:https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/ForwardSlash/forwardslash-HTB-WU-norj.pdf
 [noraj-Magic]:https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Magic/magic-HTB-WU-noraj.pdf
 [noraj-Mango]:https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Mango/mango-HTB-WU-noraj.pdf
 [noraj-Monteverde]:https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Monteverde/monteverde-HTB-WU-noraj.pdf
@@ -233,7 +233,7 @@ Therefore it is a real pride that they have decided to include the functionality
 [noraj-Remote]:https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Remote/remote-HTB-WU-noraj.pdf
 [noraj-Resolute]:https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Resolute/resolute-HTB-WU-noraj.pdf
 [noraj-ServMon]:https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Servmon/servmon-HTB-WU-noraj.pdf
-[noraj-SneakyMailer]:https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/SneakyMailer/sneakymailer-HTB-WU-norj.pdf)
+[noraj-SneakyMailer]:https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/SneakyMailer/sneakymailer-HTB-WU-norj.pdf
 [noraj-Tabby]:https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Tabby/tabby-HTB-WU-noraj.pdf
 [noraj-Traceback]:https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Traceback/traceback-HTB-WU-noraj.pdf
 [noraj-Traverxec]:https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Traverxec/traverxec-HTB-WU-noraj.pdf
