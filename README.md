@@ -227,7 +227,7 @@ Therefore it is a real pride that they have decided to include the functionality
 [noraj-Dyplesher]:https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Dyplesher/dyplesher-HTB-WU-noraj.pdf
 [noraj-Fatty]:https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Fatty/fatty-HTB-WU-noraj.pdf
 [noraj-ForwardSlash]:https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/ForwardSlash/forwardslash-HTB-WU-norj.pdf
-[noraj-Jewel]:https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Jewel/jewel-HTB-WU-norj.pdf
+[noraj-Jewel]:https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Jewel/jewel-HTB-WU-noraj.pdf
 [noraj-Magic]:https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Magic/magic-HTB-WU-noraj.pdf
 [noraj-Mango]:https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Mango/mango-HTB-WU-noraj.pdf
 [noraj-Monteverde]:https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Monteverde/monteverde-HTB-WU-noraj.pdf
