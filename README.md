@@ -209,6 +209,7 @@ Note: the minimum requirement to enter the "special" Telegram group is also to h
 <img src="./images/countries/singapore.png" height="24" width="24"> | Isopach |  [<img src="./images/isopach.jpg" height="42" width="42">](https://www.hackthebox.eu/profile/269983) | Solitaire Wolf |  | [Baby RE](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/reversing/Baby%20RE/Isopach%20-%20Baby%20RE.pdf)
 <img src="./images/countries/world.png" height="24" width="24"> | YoavD |  [<img src="./images/YoavD.png" height="42" width="42">](https://www.hackthebox.eu/profile/55745) | Solitaire Wolf |  | [HackyBird](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/reversing/HackyBird/YoavD-HackyBird.pdf)
 <img src="./images/countries/canada.png" height="24" width="24"> | ejedev |  [<img src="./images/ejedev.png" height="42" width="42">](https://www.hackthebox.eu/profile/280547) | Solitaire Wolf |  | [Toxic](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/web/Toxic/Toxic-Writeup-ejedev.pdf)
+<img src="./images/countries/france.png" height="24" width="24"> | apehex | [<img src="./images/apehex.png" height="42" width="42">](https://app.hackthebox.eu/users/413156) |  Solitaire Wolf | | [Query](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/misc/Query/apehex_Query.pdf) |
 
 # Special note
 
