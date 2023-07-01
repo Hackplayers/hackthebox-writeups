@@ -212,6 +212,7 @@ Note: the minimum requirement to enter the "special" Telegram group is also to h
 <img src="./images/countries/philippines.png" height="24" width="24"> | run3 | [<img src="./images/run3.jpg" height="42" width="42">](https://www.hackthebox.eu/home/users/profile/223654) | [hack2tan](https://www.hackthebox.eu/home/teams/profile/2963) |  | [Mission Pinpossible](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/Hardware/Mission%2DPinpossible%2Dwriteup%2Drun3.pdf)
 <img src="./images/countries/singapore.png" height="24" width="24"> | Isopach |  [<img src="./images/isopach.jpg" height="42" width="42">](https://www.hackthebox.eu/profile/269983) | Solitaire Wolf |  | [Baby RE](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/reversing/Baby%20RE/Isopach%20-%20Baby%20RE.pdf)
 <img src="./images/countries/world.png" height="24" width="24"> | YoavD |  [<img src="./images/YoavD.png" height="42" width="42">](https://www.hackthebox.eu/profile/55745) | Solitaire Wolf |  | [HackyBird](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/reversing/HackyBird/YoavD-HackyBird.pdf)
+<img src="./images/countries/indonesia.png" height="24" width="24"> | adhkr |  [<img src="./images/adhkr.png" height="42" width="42">](https://www.hackthebox.eu/profile/80291) | Solitaire Wolf | [adhkr-Stocker] | 
 
 # Special note
 
@@ -222,6 +223,8 @@ Some people have been distrustful because in this repository there are writeups 
 Therefore it is a real pride that they have decided to include the functionality of this repo directly on their platform. When this is done, this Github will be migrated and will be inactive but with a pleasantly fulfilled mission. Until then, Keep pushing!  
 
 *Hackplayers community, HTB Hispano & Born2root groups*.
+
+[adhkr-Stocker]:https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Stocker/htb-stocker-adhkr.pdf
 
 [noraj-Academy]:https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Academy/academy-HTB-WU-noraj.pdf
 [noraj-Admirer]:https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Admirer/admirer-HTB-WU-noraj.pdf
