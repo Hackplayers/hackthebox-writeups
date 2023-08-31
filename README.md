@@ -215,6 +215,7 @@ Note: the minimum requirement to enter the "special" Telegram group is also to h
 <img src="./images/countries/singapore.png" height="24" width="24"> | Isopach |  [<img src="./images/isopach.jpg" height="42" width="42">](https://www.hackthebox.eu/profile/269983) | Solitaire Wolf |  | [Baby RE](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/reversing/Baby%20RE/Isopach%20-%20Baby%20RE.pdf)
 <img src="./images/countries/world.png" height="24" width="24"> | YoavD |  [<img src="./images/YoavD.png" height="42" width="42">](https://www.hackthebox.eu/profile/55745) | Solitaire Wolf |  | [HackyBird](https://github.com/Hackplayers/hackthebox-writeups/blob/master/challenges/reversing/HackyBird/YoavD-HackyBird.pdf)
 <img src="./images/countries/indonesia.png" height="24" width="24"> | adhkr |  [<img src="./images/adhkr.png" height="42" width="42">](https://www.hackthebox.eu/profile/80291) | Solitaire Wolf | [Stocker] | 
+<img src="./images/countries/italy.png" height="24" width="24"> | [R1D3R](https://www.hackthebox.eu/profile/165588) | [<img src="./images/R1D3R.png" height="42" width="42">](https://www.hackthebox.eu/profile/165588) | [KernelChaos](https://app.hackthebox.com/teams/overview/5574) | [Derailed](https://github.com/Hackplayers/hackthebox-writeups/blob/master/machines/Derailed/R1D3R%20-%20Derailed%20WRITE-UP.pdf) | 
 
 # Special note
 
